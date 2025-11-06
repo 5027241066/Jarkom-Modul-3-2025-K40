@@ -234,7 +234,7 @@ zone "k40.com" {
 EOF
 # ... (sisanya menjalankan service) ...
 ```
-Hasil verifikasi (menggunakan 4-Verify_Minastir.sh) menunjukkan bahwa Erendis dan Amdir memiliki SOA serial yang sama, membuktikan transfer berhasil. <img width="960" alt="image" src="[placeholder_hasil_dig_SOA_master_slave]">
+Hasil verifikasi (menggunakan 4-Verify_Minastir.sh) menunjukkan bahwa Erendis dan Amdir memiliki SOA serial yang sama, membuktikan transfer berhasil.
 
 ## Soal 5
 
