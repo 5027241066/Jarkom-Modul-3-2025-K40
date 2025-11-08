@@ -594,6 +594,9 @@ php-fpm8.4 -D
 pkill -x nginx 2>/dev/null || true
 nginx
 ```
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/90797e19-f7a4-4b35-8836-f9f6916863a3" />
+
 ## Soal 8
 Sesuai Soal 8 , worker dikonfigurasi untuk terhubung ke database Palantir.
 1. Konfigurasi Palantir (Master Database)
